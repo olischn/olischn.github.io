@@ -1,0 +1,31 @@
+body {
+    background: none repeat scroll 0 0 #181818;
+    color: #fff;
+    font-family: Tahoma;
+    padding-top: 5px;
+}
+
+body > .panel {
+    background: none repeat scroll 0 0 #424542;
+    border: 3px solid #fff;
+    color: #fff;
+    margin: 0 auto;
+    width: 95%;
+     -moz-box-sizing: border-box;
+    padding: 10px;
+}
+
+body > .panel > h2 {
+    background: url(".../img/9-panelTitle.png") no-repeat scroll 10px 9px #000000;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: normal;
+    margin: -10px -10px 10px;
+    padding: 12px 0 12px 10px;
+    text-shadow: none;
+}
+
+a{
+    text-decoration: none;
+}
+p{margin: 0;padding: 0;display:inline;}
